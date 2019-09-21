@@ -3,13 +3,14 @@
 # The name of the folder that is created on the desktop
 myFolder = "groups"
 # System name variable
-UsersMac = "M0DSAUC3"
+UsersMac = "nawafmansour"
 # Create a folder on your desktop
 mkdir / Users / $ UsersMac / Desktop / $ myFolder
 # The name of the folder in which all programs are extracted after the integration with the group extensions is completed
 pathGroups = "Groups"
 FoldersignAllGroups = "othmanresignAllGroups"
-# Variable name tool Multiverse-Resign = "multiverse_source.sh"
+# Variable name tool Othman al-Mutairi
+othmanResign = "othmanresign_source.sh"
 # Desktop path
 pathUser = "/ Users / $ UsersMac / Desktop / $ myFolder"
 
